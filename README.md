@@ -4,7 +4,7 @@ Projeto em Python que converte números inteiros em sua forma por extenso em por
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Converte números de 0 a 99999
 - Trata unidades, dezenas, centenas e milhares
@@ -13,17 +13,15 @@ Projeto em Python que converte números inteiros em sua forma por extenso em por
 
 ---
 
-## 🧠 O que foi praticado
+## O que foi praticado
 
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Manipulação de strings
 - Listas em Python
 - Indexação de caracteres
 - Lógica de decomposição de números
 
 ---
 
-## 💻 Como executar
+## Como executar
 
 ```bash
 python numero_extenso.py

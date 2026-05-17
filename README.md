@@ -6,7 +6,7 @@ Projeto em Python que converte números inteiros em sua forma por extenso em por
 
 ## Funcionalidades
 
-- Converte números de 0 a 99999
+- Converte números de 0 a 9999
 - Trata unidades, dezenas, centenas e milhares
 - Suporte a números especiais (11 a 19)
 - Lógica baseada em listas e manipulação de strings

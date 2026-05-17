@@ -1,4 +1,4 @@
-# 🔢 Numero por Extenso (Python)
+# Numero por Extenso (Python)
 
 Projeto em Python que converte números inteiros em sua forma por extenso em português.
 

@@ -6,9 +6,7 @@ Projeto desenvolvido em Python que converte números inteiros para sua represent
 
 Praticar:
 - lógica de programação
-- funções
 - condicionais
-- manipulação de strings
 
 ## Tecnologias
 
